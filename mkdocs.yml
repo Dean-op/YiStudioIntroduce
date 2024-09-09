@@ -1,0 +1,45 @@
+site_name: 逸工作室介绍
+site_author: YiStudio Team
+
+nav:
+  - 简介: index.md
+# 以下目录选择性开放
+  - 比赛相关:
+    - 比赛相关简介: algorithm/index.md
+    - 比赛训练: algorithm/train.md
+  - 通知公告:
+    - 纳新公告: notice/new_in.md
+theme:
+  name: 'material'
+  static_templates:
+    - 404.html
+  language: 'zh'
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+#        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  include_search_page: false
+  search_index_only: true
+  favicon: 'favicon.ico'
+  icon:
+    logo: 'material/school'
+  features:
+    - navigation.tabs
+    - navigation.instant
+  font:
+    text: 'Fira Sans'
+    code: 'Fira Mono'

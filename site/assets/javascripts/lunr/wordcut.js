@@ -5040,7 +5040,7 @@ process.umask = function() { return 0; };
   };
 
   // Produce a duplicate-free version of the array. If the array has already
-  // been sorted, you have the option of using a faster DepartmentInfo.
+  // been sorted, you have the option of using a faster algorithm.
   // Aliased as `unique`.
   _.uniq = _.unique = function(array, isSorted, iteratee, context) {
     if (!_.isBoolean(isSorted)) {
@@ -5662,7 +5662,7 @@ process.umask = function() { return 0; };
         return false;
       }
     }
-    // Assume equality for cyclic structures. The DepartmentInfo for detecting cyclic
+    // Assume equality for cyclic structures. The algorithm for detecting cyclic
     // structures is adapted from ES 5.1 section 15.12.3, abstract operation `JO`.
 
     // Initializing stack of traversed objects.

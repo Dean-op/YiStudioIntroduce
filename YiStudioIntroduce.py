@@ -11,8 +11,7 @@ def read_markdown_file(file_path):
 st.sidebar.image("images/工作室logo.png", use_column_width=True)
 
 page = st.sidebar.radio("选择页面", ("部门介绍", "算法赛事介绍", "逸工作室训练手册"))
-st.sidebar.image("https://raw.githubusercontent.com/Dean-op/MyPic/main/image/image-20240910115035004.png?raw=true",
-                 caption="2024届逸工作室招募群")
+st.sidebar.image("images/QRcode02.png", caption="2024届逸工作室招募群")
 
 st.markdown(
     """

@@ -4,7 +4,7 @@
 </div>
 
 <div style="display: flex; justify-content: center; ">
-    <h2 style="font-size: 46px; text-shadow: #607c8a 4px 3px 4px; font-weight: bold; color: #BDA24D">逸工作室</h2>
+    <h2 style="font-size: 46px; text-shadow: #607c8a 4px 3px 4px; font-weight: inherit; color: #FFFAFA">逸工作室</h2>
 </div>
 <div style="display: flex; justify-content: flex-end; margin: 1px;">
     <p style="font-size: 20px;">——与编码爱好者同台竞技！</p>
@@ -78,6 +78,7 @@
 - 逸工作室(ICPC实验室)地点：68号楼E313
 - 2024届逸工作室纳新群号： [558345194](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MvMsvQTU4ZAa4uhJV1q1pyIWBTeRtlBw&authKey=wliELiV7CIH%2BKb0uqILvVJwCh3MFDy2vxLc9qykcgEctX6OZAJyKtnAe1tD0zfwd&noverify=0&group_code=558345194)
 - 相关问题可直接联系群内管理人员。
+- 问题集: [我们汇集新同学常问的一些问题,点击了解](https://note.youdao.com/s/OBOx9ZR2)
 - 其他问题联系邮箱：[dean256969@gmail.com](http://dean256969@gmail.com)
 
 <img src="img/QRcode02.png" alt="2024逸工作室招募群" width="40%">

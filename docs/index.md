@@ -1,6 +1,25 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **逸工作室** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/工作室logo.png" alt="2024逸工作室招募群" width="25%">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;——与编码爱好者同台竞技！
+<div style="display: flex; justify-content: flex-end; margin: 1px;">
+    <img src="img/工作室logo.png" alt="2024逸工作室招募群" style="width: 15%;">
+</div>
+
+<div style="display: flex; justify-content: center; ">
+    <h2 style="font-size: 46px; text-shadow: #607c8a 4px 3px 4px; font-weight: bold; color: #BDA24D">逸工作室</h2>
+</div>
+<div style="display: flex; justify-content: flex-end; margin: 1px;">
+    <p style="font-size: 20px;">——与编码爱好者同台竞技！</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 ## **1. 社团简介**
 

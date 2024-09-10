@@ -4,7 +4,7 @@
 </div>
 
 <div style="display: flex; justify-content: center; ">
-    <h2 style="font-size: 46px; text-shadow: #607c8a 4px 3px 4px; font-weight: inherit; color: #FFFAFA">逸工作室</h2>
+    <h2 style="font-size: 46px; text-shadow: #607c8a 2px 4px 5px; font-weight: inherit; color: #FFFAFA">逸工作室</h2>
 </div>
 <div style="display: flex; justify-content: flex-end; margin: 1px;">
     <p style="font-size: 20px;">——与编码爱好者同台竞技！</p>

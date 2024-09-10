@@ -53,11 +53,10 @@ elif page == "算法赛事介绍":
     st.markdown(event_intro, unsafe_allow_html=True)
 
 elif page == "逸工作室训练手册":
-    with st.spinner("文档加载中..."):
-        time.sleep(3)
-        if current_time >= open_time:
-            other_info = read_markdown_file("pages/train.md")
-            st.markdown(other_info, unsafe_allow_html=True)
-        else:
-            # st.warning(f"逸工作室训练手册将在 {open_time.strftime('%Y年%m月%d日')} 开放，请耐心等待！")
-            st.warning(f"此文档为逸工作室社员训练手册，请联系相关人员获取权限")
+    time.sleep(3)
+    if current_time >= open_time:
+        other_info = read_markdown_file("pages/train.md")
+        st.markdown(other_info, unsafe_allow_html=True)
+    else:
+        # st.warning(f"逸工作室训练手册将在 {open_time.strftime('%Y年%m月%d日')} 开放，请耐心等待！")
+        st.warning(f"此文档为逸工作室社员训练手册，请联系相关人员获取权限")

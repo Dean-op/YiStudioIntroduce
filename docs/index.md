@@ -1,4 +1,4 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **“逸工作室”**
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **逸工作室** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/工作室logo.png" alt="2024逸工作室招募群" width="25%">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;——与编码爱好者同台竞技！
 
@@ -63,12 +63,11 @@
 ## **6. 联系方式**
 
 - 逸工作室(ICPC实验室)地点：68号楼E313
-- 2024届逸工作室纳新群号： 558345194
+- 2024届逸工作室纳新群号： [558345194](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MvMsvQTU4ZAa4uhJV1q1pyIWBTeRtlBw&authKey=wliELiV7CIH%2BKb0uqILvVJwCh3MFDy2vxLc9qykcgEctX6OZAJyKtnAe1tD0zfwd&noverify=0&group_code=558345194)
 - 相关问题可直接联系群内管理人员。
-- 咨询邮箱：[dean256969@gmail.com](http://dean256969@gmail.com)
+- 其他问题联系邮箱：[dean256969@gmail.com](http://dean256969@gmail.com)
 
-
-
+<img src="img/QRcode02.png" alt="2024逸工作室招募群" width="40%">
 
 
 

@@ -3,12 +3,19 @@ site_author: YiStudio Team
 
 nav:
   - 简介: index.md
+
 # 以下目录选择性开放
   - 比赛相关:
-    - 比赛相关简介: algorithm/index.md
-    - 比赛训练: algorithm/train.md
-  - 通知公告:
-    - 纳新公告: notice/new_in.md
+    - 算法竞赛介绍: DepartmentInfo/AlgorithmIntro.md
+    - 软件开发介绍: DepartmentInfo/SoftwareDevInfo.md
+#    - 训练手册: DepartmentInfo/train.md
+#    - 比赛训练: DepartmentInfo/train.md
+#  - 通知公告:
+#    - 纳新公告: notice/new_in.md
+  - 更多:
+      - info: notice/other.md
+
+
 theme:
   name: 'material'
   static_templates:
@@ -36,7 +43,7 @@ theme:
   search_index_only: true
   favicon: 'favicon.ico'
   icon:
-    logo: 'material/school'
+#    logo: 'docs/img/工作室logo (1).svg'
   features:
     - navigation.tabs
     - navigation.instant

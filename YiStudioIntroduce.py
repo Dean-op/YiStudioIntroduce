@@ -44,15 +44,13 @@ open_time = datetime(2024, 10, 1)
 
 if page == "部门介绍":
     department_intro = read_markdown_file("pages/introduce.md")
-    with st.spinner("逸工作室欢迎新同学的到来..."):
-        time.sleep(2)
-        st.markdown(department_intro, unsafe_allow_html=True)
+    time.sleep(2)
+    st.markdown(department_intro, unsafe_allow_html=True)
 
 elif page == "算法赛事介绍":
-    with st.spinner("欢迎加入逸工作室..."):
-        time.sleep(2)
-        event_intro = read_markdown_file("pages/AlgorithmIntro.md")
-        st.markdown(event_intro, unsafe_allow_html=True)
+    time.sleep(2)
+    event_intro = read_markdown_file("pages/AlgorithmIntro.md")
+    st.markdown(event_intro, unsafe_allow_html=True)
 
 elif page == "逸工作室训练手册":
     with st.spinner("文档加载中..."):

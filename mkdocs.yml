@@ -29,7 +29,7 @@ theme:
       accent: red
       toggle:
         icon: material/weather-sunny
-#        name: Switch to dark mode
+        name: Switch to dark mode
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"

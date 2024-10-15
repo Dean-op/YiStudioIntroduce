@@ -8,7 +8,7 @@ nav:
   - 比赛相关:
     - 算法竞赛介绍: DepartmentInfo/AlgorithmIntro.md
     - 软件开发介绍: DepartmentInfo/SoftwareDevInfo.md
-#    - 训练手册: DepartmentInfo/train.md
+    - 训练手册: DepartmentInfo/train.md
 #    - 比赛训练: DepartmentInfo/train.md
 #  - 通知公告:
 #    - 纳新公告: notice/new_in.md
